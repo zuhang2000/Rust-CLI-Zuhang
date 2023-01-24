@@ -1,0 +1,7 @@
+This is an example text file for showing the behaviors of the cli.
+The result should return all the lines that the word appears in. 
+So if we pass in a certain word and a file. 
+It should return all the line numbers that the word appears in. 
+This is a command line interface with Rust.
+The first Rust project that I built. It's an amazing tool.
+This is an example text file and this line is duplicate.
